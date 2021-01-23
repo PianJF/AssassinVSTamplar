@@ -1,3 +1,3 @@
 # AssassinVSTamplar
 
-This is sricpts for AssassinVSTamplar on my game portfolio page.
+These are all the sricpts for AssassinVSTamplar on my game portfolio page.
